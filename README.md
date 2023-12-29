@@ -3,6 +3,7 @@ It's a game that you align same type fruits on the same line to finish the level
 <br />
 ## Features
 <br />
+
 # Game Core
 - Matching same type objects on the same line to gain score and get a higher star count on the level ending. <br />
 - Complete at least one line before you are out of steps to complete level.
