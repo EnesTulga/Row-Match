@@ -1,0 +1,1251 @@
+fileFormatVersion: 2
+guid: 279b77944604c094387041079c36470c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8177359587426892440
+    second: sprite_FX_glow_burst_yellow_0
+  - first:
+      213: -4115051500826434343
+    second: sprite_FX_glow_burst_yellow_1
+  - first:
+      213: 5089962846412067843
+    second: sprite_FX_glow_burst_yellow_2
+  - first:
+      213: 6492338149488960469
+    second: sprite_FX_glow_burst_yellow_3
+  - first:
+      213: 9090805291922441030
+    second: sprite_FX_glow_burst_yellow_4
+  - first:
+      213: 3363734441856253072
+    second: sprite_FX_glow_burst_yellow_5
+  - first:
+      213: 3705029725521211881
+    second: sprite_FX_glow_burst_yellow_6
+  - first:
+      213: 7842468814439736584
+    second: sprite_FX_glow_burst_yellow_7
+  - first:
+      213: -1592409533188194840
+    second: sprite_FX_glow_burst_yellow_8
+  - first:
+      213: -9060260198650795833
+    second: sprite_FX_glow_burst_yellow_9
+  - first:
+      213: -9148776949308811914
+    second: sprite_FX_glow_burst_yellow_10
+  - first:
+      213: 272336010861533881
+    second: sprite_FX_glow_burst_yellow_11
+  - first:
+      213: -7781827732743100080
+    second: sprite_FX_glow_burst_yellow_12
+  - first:
+      213: 7094412031016475418
+    second: sprite_FX_glow_burst_yellow_13
+  - first:
+      213: 1518888411705031288
+    second: sprite_FX_glow_burst_yellow_14
+  - first:
+      213: -6732438328769715684
+    second: sprite_FX_glow_burst_yellow_15
+  - first:
+      213: 4576365736816611888
+    second: sprite_FX_glow_burst_yellow_16
+  - first:
+      213: -7404740424700254073
+    second: sprite_FX_glow_burst_yellow_17
+  - first:
+      213: -3889462526591095178
+    second: sprite_FX_glow_burst_yellow_18
+  - first:
+      213: 8221776704709607614
+    second: sprite_FX_glow_burst_yellow_19
+  - first:
+      213: 751140630201435172
+    second: sprite_FX_glow_burst_yellow_20
+  - first:
+      213: -8695723316781895247
+    second: sprite_FX_glow_burst_yellow_21
+  - first:
+      213: -3708701233860043416
+    second: sprite_FX_glow_burst_yellow_22
+  - first:
+      213: 140476143816426840
+    second: sprite_FX_glow_burst_yellow_23
+  - first:
+      213: -645718167080101735
+    second: sprite_FX_glow_burst_yellow_24
+  - first:
+      213: -7216462076295720645
+    second: sprite_FX_glow_burst_yellow_25
+  - first:
+      213: 3479848004849978093
+    second: sprite_FX_glow_burst_yellow_26
+  - first:
+      213: 3262381021486751255
+    second: sprite_FX_glow_burst_yellow_27
+  - first:
+      213: -492824987798695238
+    second: sprite_FX_glow_burst_yellow_28
+  - first:
+      213: -6689138638522359219
+    second: sprite_FX_glow_burst_yellow_29
+  - first:
+      213: 5240936531246849569
+    second: sprite_FX_glow_burst_yellow_30
+  - first:
+      213: -8113539209786875570
+    second: sprite_FX_glow_burst_yellow_31
+  - first:
+      213: -5779494910993470686
+    second: sprite_FX_glow_burst_yellow_32
+  - first:
+      213: 555933014812386828
+    second: sprite_FX_glow_burst_yellow_33
+  - first:
+      213: 742515059352381218
+    second: sprite_FX_glow_burst_yellow_34
+  - first:
+      213: 6277616524408830015
+    second: sprite_FX_glow_burst_yellow_35
+  - first:
+      213: -6467353844528501860
+    second: sprite_FX_glow_burst_yellow_36
+  - first:
+      213: 7547773273166434608
+    second: sprite_FX_glow_burst_yellow_37
+  - first:
+      213: 7107783375123296253
+    second: sprite_FX_glow_burst_yellow_38
+  - first:
+      213: 1004593908218153954
+    second: sprite_FX_glow_burst_yellow_39
+  - first:
+      213: -2947941274663883441
+    second: sprite_FX_glow_burst_yellow_40
+  - first:
+      213: 7498705334245125319
+    second: sprite_FX_glow_burst_yellow_41
+  - first:
+      213: -9218760807471979916
+    second: sprite_FX_glow_burst_yellow_42
+  - first:
+      213: -8309220562307167553
+    second: sprite_FX_glow_burst_yellow_43
+  - first:
+      213: 6957533533623281510
+    second: sprite_FX_glow_burst_yellow_44
+  - first:
+      213: 389066232955116874
+    second: sprite_FX_glow_burst_yellow_45
+  - first:
+      213: -644277687214379331
+    second: sprite_FX_glow_burst_yellow_46
+  - first:
+      213: -6387825539785848140
+    second: sprite_FX_glow_burst_yellow_47
+  - first:
+      213: 7487355351463459253
+    second: sprite_FX_glow_burst_yellow_48
+  - first:
+      213: -2994383111915759635
+    second: sprite_FX_glow_burst_yellow_49
+  - first:
+      213: -3724219884899061267
+    second: sprite_FX_glow_burst_yellow_50
+  - first:
+      213: 2054022477913690679
+    second: sprite_FX_glow_burst_yellow_51
+  - first:
+      213: -5781219395582391048
+    second: sprite_FX_glow_burst_yellow_52
+  - first:
+      213: -6791197074293200630
+    second: sprite_FX_glow_burst_yellow_53
+  - first:
+      213: 5250170962719989908
+    second: sprite_FX_glow_burst_yellow_54
+  - first:
+      213: -2490695594307112637
+    second: sprite_FX_glow_burst_yellow_55
+  - first:
+      213: 5752841395614559906
+    second: sprite_FX_glow_burst_yellow_56
+  - first:
+      213: -6758760929945846372
+    second: sprite_FX_glow_burst_yellow_57
+  - first:
+      213: -5179376159484436374
+    second: sprite_FX_glow_burst_yellow_58
+  - first:
+      213: 651033815177882483
+    second: sprite_FX_glow_burst_yellow_59
+  - first:
+      213: 6932352368142747377
+    second: sprite_FX_glow_burst_yellow_60
+  - first:
+      213: 9066113546968130859
+    second: sprite_FX_glow_burst_yellow_61
+  - first:
+      213: 6122987870235130783
+    second: sprite_FX_glow_burst_yellow_62
+  - first:
+      213: -6650910118509089796
+    second: sprite_FX_glow_burst_yellow_63
+  - first:
+      213: -4219359985169608534
+    second: sprite_FX_glow_burst_yellow_64
+  - first:
+      213: -4459359703539004073
+    second: sprite_FX_glow_burst_yellow_65
+  - first:
+      213: 7675076826426551034
+    second: sprite_FX_glow_burst_yellow_66
+  - first:
+      213: -1221799005841221424
+    second: sprite_FX_glow_burst_yellow_67
+  - first:
+      213: -8419061651639907048
+    second: sprite_FX_glow_burst_yellow_68
+  - first:
+      213: -8443834200661591812
+    second: sprite_FX_glow_burst_yellow_69
+  - first:
+      213: 1792260207308552428
+    second: sprite_FX_glow_burst_yellow_70
+  - first:
+      213: 1447302937062162186
+    second: sprite_FX_glow_burst_yellow_71
+  - first:
+      213: -4723629770597874391
+    second: sprite_FX_glow_burst_yellow_72
+  - first:
+      213: -2167988240936777143
+    second: sprite_FX_glow_burst_yellow_73
+  - first:
+      213: -7532289616630606937
+    second: sprite_FX_glow_burst_yellow_74
+  - first:
+      213: 2718582841465158674
+    second: sprite_FX_glow_burst_yellow_75
+  - first:
+      213: -8962147678379739892
+    second: sprite_FX_glow_burst_yellow_76
+  - first:
+      213: -2997612776460832615
+    second: sprite_FX_glow_burst_yellow_77
+  - first:
+      213: 495653990924127872
+    second: sprite_FX_glow_burst_yellow_78
+  - first:
+      213: -8424360760762601356
+    second: sprite_FX_glow_burst_yellow_79
+  - first:
+      213: -2205196014030726290
+    second: sprite_FX_glow_burst_yellow_80
+  - first:
+      213: 6852704804723661614
+    second: sprite_FX_glow_burst_yellow_81
+  - first:
+      213: -3258838711659001756
+    second: sprite_FX_glow_burst_yellow_82
+  - first:
+      213: -3539403657395071261
+    second: sprite_FX_glow_burst_yellow_83
+  - first:
+      213: 164992709664405175
+    second: sprite_FX_glow_burst_yellow_84
+  - first:
+      213: -4589085157009268638
+    second: sprite_FX_glow_burst_yellow_85
+  - first:
+      213: 8034193733246049254
+    second: sprite_FX_glow_burst_yellow_86
+  - first:
+      213: -4339973923584840751
+    second: sprite_FX_glow_burst_yellow_87
+  - first:
+      213: -4754666577879210261
+    second: sprite_FX_glow_burst_yellow_88
+  - first:
+      213: 4342590130779457965
+    second: sprite_FX_glow_burst_yellow_89
+  - first:
+      213: 7349983444498243421
+    second: sprite_FX_glow_burst_yellow_90
+  - first:
+      213: 5590435456333477269
+    second: sprite_FX_glow_burst_yellow_91
+  - first:
+      213: -3412007571467657371
+    second: sprite_FX_glow_burst_yellow_92
+  - first:
+      213: 4910878259292371287
+    second: sprite_FX_glow_burst_yellow_93
+  - first:
+      213: -4833711253506987869
+    second: sprite_FX_glow_burst_yellow_94
+  - first:
+      213: -5453466687203229773
+    second: sprite_FX_glow_burst_yellow_95
+  - first:
+      213: -1477019560451811334
+    second: sprite_FX_glow_burst_yellow_96
+  - first:
+      213: 9009923712041407547
+    second: sprite_FX_glow_burst_yellow_97
+  - first:
+      213: 5627666564446923658
+    second: sprite_FX_glow_burst_yellow_98
+  - first:
+      213: -1811844110390514333
+    second: sprite_FX_glow_burst_yellow_99
+  - first:
+      213: 3722081632456092616
+    second: sprite_FX_glow_burst_yellow_100
+  - first:
+      213: 1166572324055923119
+    second: sprite_FX_glow_burst_yellow_101
+  - first:
+      213: -7627912906931671872
+    second: sprite_FX_glow_burst_yellow_102
+  - first:
+      213: -6638509590119046082
+    second: sprite_FX_glow_burst_yellow_103
+  - first:
+      213: -7093123361529434601
+    second: sprite_FX_glow_burst_yellow_104
+  - first:
+      213: -6306062050693635502
+    second: sprite_FX_glow_burst_yellow_105
+  - first:
+      213: -3221905210985165256
+    second: sprite_FX_glow_burst_yellow_106
+  - first:
+      213: -5622156194693501642
+    second: sprite_FX_glow_burst_yellow_107
+  - first:
+      213: 6544553967197735207
+    second: sprite_FX_glow_burst_yellow_108
+  - first:
+      213: 8072532406236323024
+    second: sprite_FX_glow_burst_yellow_109
+  - first:
+      213: -1843392036156302181
+    second: sprite_FX_glow_burst_yellow_110
+  - first:
+      213: -5471994098136428217
+    second: sprite_FX_glow_burst_yellow_111
+  - first:
+      213: 2418533976718021484
+    second: sprite_FX_glow_burst_yellow_112
+  - first:
+      213: -4708524430554581480
+    second: sprite_FX_glow_burst_yellow_113
+  - first:
+      213: -3687200294467153447
+    second: sprite_FX_glow_burst_yellow_114
+  - first:
+      213: -3411780853296619197
+    second: sprite_FX_glow_burst_yellow_115
+  - first:
+      213: -5281428441289418446
+    second: sprite_FX_glow_burst_yellow_116
+  - first:
+      213: 3431758304096703605
+    second: sprite_FX_glow_burst_yellow_117
+  - first:
+      213: 7246777546837966132
+    second: sprite_FX_glow_burst_yellow_118
+  - first:
+      213: 4065296870223763304
+    second: sprite_FX_glow_burst_yellow_119
+  - first:
+      213: -16610600216176954
+    second: sprite_FX_glow_burst_yellow_120
+  - first:
+      213: -8340664663433841934
+    second: sprite_FX_glow_burst_yellow_121
+  - first:
+      213: -5283644805985449509
+    second: sprite_FX_glow_burst_yellow_122
+  - first:
+      213: 552018263140645815
+    second: sprite_FX_glow_burst_yellow_123
+  - first:
+      213: 442332229940737896
+    second: sprite_FX_glow_burst_yellow_124
+  - first:
+      213: -5906549217987710161
+    second: sprite_FX_glow_burst_yellow_125
+  - first:
+      213: -5800486582139161345
+    second: sprite_FX_glow_burst_yellow_126
+  - first:
+      213: 2606842290663004192
+    second: sprite_FX_glow_burst_yellow_127
+  - first:
+      213: 245320467506676331
+    second: sprite_FX_glow_burst_yellow_128
+  - first:
+      213: -4537279034190316160
+    second: sprite_FX_glow_burst_yellow_129
+  - first:
+      213: 4679756431317235628
+    second: sprite_FX_glow_burst_yellow_130
+  - first:
+      213: -571572611310898744
+    second: sprite_FX_glow_burst_yellow_131
+  - first:
+      213: -1430323995242674615
+    second: sprite_FX_glow_burst_yellow_132
+  - first:
+      213: -7794404872780160074
+    second: sprite_FX_glow_burst_yellow_133
+  - first:
+      213: -3600163040914968411
+    second: sprite_FX_glow_burst_yellow_134
+  - first:
+      213: 7264482390940773721
+    second: sprite_FX_glow_burst_yellow_135
+  - first:
+      213: -3205854189370055087
+    second: sprite_FX_glow_burst_yellow_136
+  - first:
+      213: -5492485771020230758
+    second: sprite_FX_glow_burst_yellow_137
+  - first:
+      213: 2205336999156187639
+    second: sprite_FX_glow_burst_yellow_138
+  - first:
+      213: 8880210287146273253
+    second: sprite_FX_glow_burst_yellow_139
+  - first:
+      213: -2387119203284602970
+    second: sprite_FX_glow_burst_yellow_140
+  - first:
+      213: 8650782767616680835
+    second: sprite_FX_glow_burst_yellow_141
+  - first:
+      213: -5316614615264847077
+    second: sprite_FX_glow_burst_yellow_142
+  - first:
+      213: -8578180650301948668
+    second: sprite_FX_glow_burst_yellow_143
+  - first:
+      213: -4590450852572880907
+    second: sprite_FX_glow_burst_yellow_144
+  - first:
+      213: -2210712136467386962
+    second: sprite_FX_glow_burst_yellow_145
+  - first:
+      213: 2547737363420182302
+    second: sprite_FX_glow_burst_yellow_146
+  - first:
+      213: 448068296563835304
+    second: sprite_FX_glow_burst_yellow_147
+  - first:
+      213: 7395422929311426067
+    second: sprite_FX_glow_burst_yellow_148
+  - first:
+      213: -5245155230521179858
+    second: sprite_FX_glow_burst_yellow_149
+  - first:
+      213: 4449602550096556526
+    second: sprite_FX_glow_burst_yellow_150
+  - first:
+      213: -8092631622459072217
+    second: sprite_FX_glow_burst_yellow_151
+  - first:
+      213: 6501644487826129230
+    second: sprite_FX_glow_burst_yellow_152
+  - first:
+      213: -8375820155976828717
+    second: sprite_FX_glow_burst_yellow_153
+  - first:
+      213: 4515612158004239302
+    second: sprite_FX_glow_burst_yellow_154
+  - first:
+      213: 6937894694716486529
+    second: sprite_FX_glow_burst_yellow_155
+  - first:
+      213: 1683163397742376559
+    second: sprite_FX_glow_burst_yellow_156
+  - first:
+      213: 535882370166067314
+    second: sprite_FX_glow_burst_yellow_157
+  - first:
+      213: 195724673951041195
+    second: sprite_FX_glow_burst_yellow_158
+  - first:
+      213: -1231843011173359501
+    second: sprite_FX_glow_burst_yellow_159
+  - first:
+      213: -434059198423972194
+    second: sprite_FX_glow_burst_yellow_160
+  - first:
+      213: 800850678907533768
+    second: sprite_FX_glow_burst_yellow_161
+  - first:
+      213: -1284922119117138576
+    second: sprite_FX_glow_burst_yellow_162
+  - first:
+      213: 1952192391110386512
+    second: sprite_FX_glow_burst_yellow_163
+  - first:
+      213: -6748828734643451094
+    second: sprite_FX_glow_burst_yellow_164
+  - first:
+      213: 5648851605363232159
+    second: sprite_FX_glow_burst_yellow_165
+  - first:
+      213: -3325829113916685333
+    second: sprite_FX_glow_burst_yellow_166
+  - first:
+      213: 2019890450442648737
+    second: sprite_FX_glow_burst_yellow_167
+  - first:
+      213: 8030429803148269659
+    second: sprite_FX_glow_burst_yellow_168
+  - first:
+      213: 4524755637368730673
+    second: sprite_FX_glow_burst_yellow_169
+  - first:
+      213: 5916335909078297577
+    second: sprite_FX_glow_burst_yellow_170
+  - first:
+      213: -929040474344744210
+    second: sprite_FX_glow_burst_yellow_171
+  - first:
+      213: -5109375932649071065
+    second: sprite_FX_glow_burst_yellow_172
+  - first:
+      213: 8994849845656673917
+    second: sprite_FX_glow_burst_yellow_173
+  - first:
+      213: -5379541065921195292
+    second: sprite_FX_glow_burst_yellow_174
+  - first:
+      213: -9142613546539576548
+    second: sprite_FX_glow_burst_yellow_175
+  - first:
+      213: -5192984478879913008
+    second: sprite_FX_glow_burst_yellow_176
+  - first:
+      213: 2377488634914992127
+    second: sprite_FX_glow_burst_yellow_177
+  - first:
+      213: -2755393268029498458
+    second: sprite_FX_glow_burst_yellow_178
+  - first:
+      213: 2571382866611683654
+    second: sprite_FX_glow_burst_yellow_179
+  - first:
+      213: -1660054796550821898
+    second: sprite_FX_glow_burst_yellow_180
+  - first:
+      213: 4382089404401949407
+    second: sprite_FX_glow_burst_yellow_181
+  - first:
+      213: 5044144831279060960
+    second: sprite_FX_glow_burst_yellow_182
+  - first:
+      213: 3229952709303532930
+    second: sprite_FX_glow_burst_yellow_183
+  - first:
+      213: 6650219789001138871
+    second: sprite_FX_glow_burst_yellow_184
+  - first:
+      213: -1447296167990194223
+    second: sprite_FX_glow_burst_yellow_185
+  - first:
+      213: 2392144669812223418
+    second: sprite_FX_glow_burst_yellow_186
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86509ced7ce248e80800000000000000
+      internalID: -8177359587426892440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46dc4667664e6c0800000000000000
+      internalID: -4115051500826434343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304d354bd3e23a640800000000000000
+      internalID: 5089962846412067843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3a10a262b691a50800000000000000
+      internalID: 6492338149488960469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64347437f37092e70800000000000000
+      internalID: 9090805291922441030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cb69d27a26eae20800000000000000
+      internalID: 3363734441856253072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e174ffb7e8ea6330800000000000000
+      internalID: 3705029725521211881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80562c6e5db06dc60800000000000000
+      internalID: 7842468814439736584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3f5d67ff96e9e0800000000000000
+      internalID: -1592409533188194840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c82fc64a5d734280800000000000000
+      internalID: -9060260198650795833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6759a2f36d3090180800000000000000
+      internalID: -9148776949308811914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bad2f2b82887c300800000000000000
+      internalID: 272336010861533881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059609e28e4610490800000000000000
+      internalID: -7781827732743100080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b9ef6872a647260800000000000000
+      internalID: 7094412031016475418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ab22986fc241510800000000000000
+      internalID: 1518888411705031288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e47d82039192a0800000000000000
+      internalID: -6732438328769715684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03219391464828f30800000000000000
+      internalID: 4576365736816611888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78824c3d0d31d3990800000000000000
+      internalID: -7404740424700254073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e2857707ad50ac0800000000000000
+      internalID: -3889462526591095178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb04cc22a5e991270800000000000000
+      internalID: 8221776704709607614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42405876c669c6a00800000000000000
+      internalID: 751140630201435172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1322e17b5925780800000000000000
+      internalID: -8695723316781895247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d18b990eb088cc0800000000000000
+      internalID: -3708701233860043416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855489bfe4213f100800000000000000
+      internalID: 140476143816426840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_FX_glow_burst_yellow_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9989c2a8fb2f907f0800000000000000
+      internalID: -645718167080101735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite_FX_glow_burst_yellow_0: -8177359587426892440
+      sprite_FX_glow_burst_yellow_1: -4115051500826434343
+      sprite_FX_glow_burst_yellow_10: -9148776949308811914
+      sprite_FX_glow_burst_yellow_11: 272336010861533881
+      sprite_FX_glow_burst_yellow_12: -7781827732743100080
+      sprite_FX_glow_burst_yellow_13: 7094412031016475418
+      sprite_FX_glow_burst_yellow_14: 1518888411705031288
+      sprite_FX_glow_burst_yellow_15: -6732438328769715684
+      sprite_FX_glow_burst_yellow_16: 4576365736816611888
+      sprite_FX_glow_burst_yellow_17: -7404740424700254073
+      sprite_FX_glow_burst_yellow_18: -3889462526591095178
+      sprite_FX_glow_burst_yellow_19: 8221776704709607614
+      sprite_FX_glow_burst_yellow_2: 5089962846412067843
+      sprite_FX_glow_burst_yellow_20: 751140630201435172
+      sprite_FX_glow_burst_yellow_21: -8695723316781895247
+      sprite_FX_glow_burst_yellow_22: -3708701233860043416
+      sprite_FX_glow_burst_yellow_23: 140476143816426840
+      sprite_FX_glow_burst_yellow_24: -645718167080101735
+      sprite_FX_glow_burst_yellow_3: 6492338149488960469
+      sprite_FX_glow_burst_yellow_4: 9090805291922441030
+      sprite_FX_glow_burst_yellow_5: 3363734441856253072
+      sprite_FX_glow_burst_yellow_6: 3705029725521211881
+      sprite_FX_glow_burst_yellow_7: 7842468814439736584
+      sprite_FX_glow_burst_yellow_8: -1592409533188194840
+      sprite_FX_glow_burst_yellow_9: -9060260198650795833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
