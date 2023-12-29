@@ -1,11 +1,11 @@
 # ROW MATCH
-It's a game that you align same type fruits on the same line to finish the level.
+It's a game that you align same type fruits on the same row to finish the level.
 <br />
 ## Features
 
 ### Game Core
-- Matching same type objects on the same line to gain score and get a higher star count on the level ending. <br />
-- Complete at least one line before you are out of steps to complete level.
+- Matching same type objects on the same row to gain score and get a higher star count on the level ending. <br />
+- Complete at least one row before you are out of steps to complete level.
   
 <br /> ![Image 1](rowMatch_Game.PNG) <br />
 
